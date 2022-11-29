@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrpurplenice
-- 👀 I’m interested in analysing data from data sets and making predictions
+- 👀 I’m interested in learning to analyse data from data sets and making predictions
 - 🌱 I’m currently learning machine learning in relation to python
 - 💞️ I’m looking to collaborate on my first coding project to provide analysis on VAERS dataset from the beginning of the covid vaccinations
 - 📫 How to reach me mrpurplen1ce@porotonmail.com
